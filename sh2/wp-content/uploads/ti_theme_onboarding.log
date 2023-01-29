@@ -1,0 +1,25 @@
+[24/Jan/2023:20:23:18] (I): WordPress Instance Info:
+[24/Jan/2023:20:23:18] (I): Home URL : http://localhost/sh2
+[24/Jan/2023:20:23:18] (I): Site URL : http://localhost/sh2
+[24/Jan/2023:20:23:18] (I): WordPress Version : 6.1.1
+[24/Jan/2023:20:23:18] (I): Onboarding Version : 1.1.32
+[24/Jan/2023:20:23:18] (I): Multisite : No
+[24/Jan/2023:20:23:18] (I): Server Info : Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.8
+[24/Jan/2023:20:23:18] (I): PHP Version : 8.0.8
+[24/Jan/2023:20:23:18] (I): HTTPS : No
+[24/Jan/2023:20:23:18] (I): PHP Max Execution Time : 120
+[24/Jan/2023:20:23:18] (I): PHP Max Input Vars : 1000
+[24/Jan/2023:20:23:18] (I): Max Upload Size : 41943040
+[24/Jan/2023:20:23:18] (I): Plugins:
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Animate It! : v3.0.1 (eLEOPARD Design Studios)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Codisto Channel Cloud : v1.3.65 (Codisto)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Facebook for WooCommerce : v3.0.8 (Facebook)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Google Listings and Ads : v2.3.7 (WooCommerce)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Jetpack : v11.7.1 (Automattic)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] MailPoet : v4.5.0 (MailPoet)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Image optimization service by Optimole : v3.5.5 (Optimole)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.0 (ThemeIsle)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Pinterest for WooCommerce : v1.2.9 (WooCommerce)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] Templates Patterns Collection : v1.1.32 (ThemeIsle)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] TikTok : v1.0.15 (TikTok)
+[24/Jan/2023:20:23:18] (I): [PLUGIN] WooCommerce : v7.3.0 (Automattic)
